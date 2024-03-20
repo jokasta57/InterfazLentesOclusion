@@ -12,4 +12,4 @@ Es preferible usar una pantalla touch, para que sea más intuitivo para el sujet
 
 ![6CD5333A-1537-4357-AC33-92B5E4FAFD7D](https://github.com/jokasta57/InterfazLentesOclusion/assets/16157859/1e8b61f0-356a-4d1b-9d55-74b54edd6404)
 
-Pd.- es recomendable instalar el IDE de Arduino, para que la placa sea reconocida por la computadora; además de otras biblitecas, según el S.O.
+Pd.- es recomendable instalar el IDE de Arduino, para que la placa sea reconocida por la computadora; además de otras biblitecas, según la versión de Windows.
