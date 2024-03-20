@@ -1,0 +1,165 @@
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.exe.config
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.exe
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.pdb
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.exe.manifest
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.application
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.exe
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.pdb
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.csprojResolveAssemblyReference.cache
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.Form1.resources
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.Form2.resources
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.Properties.Resources.resources
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.csproj.GenerateResource.Cache
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.exe.manifest
+C:/Users/hector/Documents/servicio/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.application
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.exe.config
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.exe.manifest
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.application
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.exe
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/bin/Debug/controldeexperimento.pdb
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.csprojAssemblyReference.cache
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.Form1.resources
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.Form2.resources
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.Properties.Resources.resources
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.csproj.GenerateResource.cache
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.csproj.CoreCompileInputs.cache
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.exe
+/Users/gus/Dropbox/controldeexperimento/controldeexperimento/obj/Debug/controldeexperimento.pdb
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.Form1.resources
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.Form2.resources
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gus\Desktop\controldeexperimento\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.Form1.resources
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.Form2.resources
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gus\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.frmConfiguracion.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.frmMenu.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.frmExperimentoGral.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.frmPanelExperimento.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2\controldeexperimento\obj\Debug\controldeexperimento.frmDatosPaciente.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.frmConfiguracion.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.frmPanelExperimento.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.frmMenu.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.frmExperimentoGral.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.frmDatosPaciente.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\ControlDeExperimento_v2.5\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.frmConfiguracion.resources
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.frmPanelExperimento.resources
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.frmMenu.resources
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.frmExperimentoGral.resources
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.frmDatosPaciente.resources
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\prismas v2.7.1_recompensa\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.frmConfiguracion.resources
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.frmPanelExperimento.resources
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.frmMenu.resources
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.frmExperimentoGral.resources
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.frmDatosPaciente.resources
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\prismas v2.8_loop\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.frmConfiguracion.resources
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.frmPanelExperimento.resources
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.frmMenu.resources
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.frmExperimentoGral.resources
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.frmDatosPaciente.resources
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Gusoftware\Desktop\Prismas\controldeexperimento\obj\Debug\controldeexperimento.pdb
+C:\Users\Laboratorio\Desktop\controldeexperimento\bin\Debug\controldeexperimento.exe.config
+C:\Users\Laboratorio\Desktop\controldeexperimento\bin\Debug\controldeexperimento.exe.manifest
+C:\Users\Laboratorio\Desktop\controldeexperimento\bin\Debug\controldeexperimento.application
+C:\Users\Laboratorio\Desktop\controldeexperimento\bin\Debug\controldeexperimento.exe
+C:\Users\Laboratorio\Desktop\controldeexperimento\bin\Debug\controldeexperimento.pdb
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.csprojAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.frmConfiguracion.resources
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.frmPanelExperimento.resources
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.frmMenu.resources
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.frmExperimentoGral.resources
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.frmDatosPaciente.resources
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.csproj.GenerateResource.cache
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.exe.manifest
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.application
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.exe
+C:\Users\Laboratorio\Desktop\controldeexperimento\obj\Debug\controldeexperimento.pdb

@@ -1,0 +1,15 @@
+1|Gustavo
+2|112
+3|2
+4|Prueba de campeón_con salto de línea
+5|0
+6|58
+7|800
+8|60
+9|730
+10|tienes que presionar el "spacebar" todo el tiempo
+11|adiós. gracias
+12|No
+13|
+14|1
+15|0.0
